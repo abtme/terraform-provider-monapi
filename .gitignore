@@ -1,0 +1,7 @@
+/terraform-provider-monapi
+/dist/
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+/local-test/
